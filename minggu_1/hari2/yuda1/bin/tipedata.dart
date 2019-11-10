@@ -32,6 +32,12 @@ main() {
 
   var one = 'nama';
   print('jika nama bukan $one');
+
+  var Yuda = 2888;
+  print(Yuda.runtimeType);
+
+  int Umur = 226;
+  print(Umur);
 }
 
 
