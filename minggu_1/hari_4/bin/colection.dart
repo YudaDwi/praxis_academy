@@ -5,7 +5,7 @@ void main() {
   accounts['dept']='HR';
   accounts['name']='Tom';
   accounts['email']= 'tomk@gmail.com';
-  accounts['alamat']= 'ponorogo'
+  accounts['alamat']= 'ponorogo';
   print('map after adding entries :${accounts}');
 
 //menambakan beberapa nilai hashmap
