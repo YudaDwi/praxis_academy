@@ -13,7 +13,7 @@ Future<String> getUserOrder() {
 }
 
 //synchronous
-main() { //pada bagian ini masih juga belum paham 
+main() { 
   print('fetching user order . . . .');
   print(createOrderMessage);
 }
