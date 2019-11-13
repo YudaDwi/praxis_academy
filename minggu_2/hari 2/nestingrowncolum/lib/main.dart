@@ -15,7 +15,10 @@ class MyApp extends StatelessWidget {
   }
 }
 class Home extends StatelessWidget {
-
+final String title = 'Kimetsu No Yaiba';
+final String location = 'japan';
+final String descripion = 
+'kimetsu no yaiba adalah sebuah seri manga jepang karya koyoharu gotoge. manga ini mulai dimuat dalam majalah weekly shonen jump terbitan shueisha sejak bulan februari 2016';
 
   @override
   Widget build(BuildContext context) {
@@ -33,7 +36,7 @@ class Home extends StatelessWidget {
             fit: BoxFit.fill,
           ),
           Container(
-            height: 100.0,
+            height: 15.0,
           ),
           Row()
         ],
