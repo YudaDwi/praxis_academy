@@ -1,8 +1,8 @@
-name: hello
+name: yuda
 description: A new Flutter package project.
 version: 0.0.1
-author:
-homepage:
+author: yuda dwi hardianto <yudadwi0@gmail.com>
+homepage: https://github.com/YudaDwi/praxis_academy/tree/master/minggu_4/hari%202/hello
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
